@@ -1,17 +1,11 @@
-# i_am_rich
+# I Am Rich
 
-A new Flutter project.
+This project was inspired by the infamous "I Am Rich" application released in 2008 by Armin Heinrich (primarily as a joke). In short, the app would be sold for the highest possible price the App Store would allow (\$999.99) to fit one of the two following scenarios:
 
-## Getting Started
+1. To prove to others you had a lot of money and bought an app that cost \$1000 and does nothing
 
-This project is a starting point for a Flutter application.
+2. To make the publisher (Admin Heinrich), _rich_.
 
-A few resources to get you started if this is your first Flutter project:
+## Story
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# iamrich
+This is my first Flutter project; I made this to get my feet wet with Flutter and Dart programming and experiment in the world of mobile development.
