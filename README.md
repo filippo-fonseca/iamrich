@@ -1,4 +1,4 @@
-# I Am Rich
+# 🤑 I Am Rich
 
 This project was inspired by the infamous "I Am Rich" application released in 2008 by Armin Heinrich (primarily as a joke). In short, the app would be sold for the highest possible price the App Store would allow (\$999.99) to fit one of the two following scenarios:
 
@@ -9,3 +9,23 @@ This project was inspired by the infamous "I Am Rich" application released in 20
 ## Story
 
 This is my first Flutter project; I made this to get my feet wet with Flutter and Dart programming and experiment in the world of mobile development.
+
+## Setup and Initialization
+
+1. Clone the repo into your local machine
+
+```
+git clone git@github.com:filippo-fonseca/iamrich.git
+```
+
+2. Install dependencies
+
+```
+flutter package get
+```
+
+3. Run the app
+
+```
+flutter run
+```
